@@ -56,5 +56,13 @@ This project combines financial analysis, safety incident evaluation, and custom
 
 ---
 
-## 📁 File Structure
+## 📌 Authors
 
+- Medhansh Choubey, Akshat Kalra, Shikha Rajesh, Nissan Roy
+- Developed for the Bolt Data BootCamp Case Competition
+
+---
+
+## 📬 Contact
+
+For inquiries, reach out at: **medhanshchoubey230804@gmail.com**
